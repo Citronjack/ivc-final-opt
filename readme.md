@@ -24,7 +24,7 @@ This repo contains the code for the final optimazation task of the IVC Lab at TU
 
 # Results
 
-[alt text](https://github.com/[ga48rem]/[ivc-final-opt]/master/FinalResults.jpg?raw=true)
+[FinalResults](FinalResults.jpg)
 
 
 
