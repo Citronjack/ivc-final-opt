@@ -24,7 +24,7 @@ This repo contains the code for the final optimazation task of the IVC Lab at TU
 
 # Results
 
-[Final Results](FinalResults.jpg)
+![Final Results](FinalResults.jpg)
 
 
 
