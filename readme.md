@@ -21,6 +21,8 @@ This repo contains the code for the final optimazation task of the IVC Lab at TU
 
 # Presentation:
   Go into Presentation and open the mp4 file (Volumne adjustments might be necessary!)
+  
+  [![My presentation video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://drive.google.com/file/d/1GW7gBI4aIToL07y8_qql9zDQ4QeqUwEe/view?usp=sharing)
 
 # Results
 
