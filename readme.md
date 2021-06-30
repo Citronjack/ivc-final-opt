@@ -1,4 +1,3 @@
-
 # What This?
 
 This repo contains the code for the final optimazation task of the IVC Lab at TUM. I decided to create a codec that relies on an original idea, which is to treat subframes of images differently depending on the information that is contained in it. For more information refer to the 3 min presentation in the "Alexander_Prommesberger_Final_Opt.zip". 
@@ -25,7 +24,7 @@ This repo contains the code for the final optimazation task of the IVC Lab at TU
 
 # Results
 
-[alt text](https://github.com/[ga48rem]/[ivc-final-opt]/blob/[master]/FinalResults.jpg?raw=true)
+[alt text](https://github.com/[ga48rem]/[ivc-final-opt]/FinalResults.jpg?raw=true)
 
 
 
